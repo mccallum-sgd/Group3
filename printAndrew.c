@@ -1,4 +1,6 @@
 void printAndrew(){
-  printf("(William) Andrew Owen");
-  printf("Year in School: Junior");
-  
+  printf("(William) Andrew Owen\n");
+  printf("Year in School: Junior\n");
+  printf("Major: Computer Science\n");
+  printf("");
+}
