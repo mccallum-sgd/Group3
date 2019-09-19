@@ -1,7 +1,12 @@
 #include <stdio.h>
 
 void printSean() {
-	printf("FIXME: print name, year, major, hobbies, where you grew up, and anything else interesting.");
+	printf("Name: Sean McCallum\n"
+		   "Year: Senior\n"
+		   "Major: Comptuer Science\n"
+		   "Hobbies: video games, piano, snowboarding\n"
+		   "Where I grew up: Bellingham, Washington and Stevensville, MT\n"
+		   "Anything else: I'm not very interesting\n\n");
 }
 
 void printCian() {
