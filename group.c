@@ -5,6 +5,7 @@ void printSean() {
 }
 
 void printCian() {
+	printf("Name: Cian McGinn\n");
 	printf("FIXME: print name, year, major, hobbies, where you grew up, and anything else interesting.");
 }
 
