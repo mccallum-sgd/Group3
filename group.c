@@ -18,11 +18,12 @@ void printAndrew() {
 }
 
 void printHalle() {
-	printf("Halle Nurse");  
-	printf("Junior");
-	printf("Computer Science");
-	printf("Softball, golf, hiking, floating the river");
-	printf("Missoula, MT");
+	printf("Halle Nurse\n");  
+	printf("Junior\n");
+	printf("Computer Science\n");
+	printf("Softball, golf, hiking, floating the river\n");
+	printf("Missoula, MT\n");
+	printf("I have been stung by a sting ray.\n");
 }
 
 
