@@ -20,6 +20,8 @@ void printAndrew() {
 void printHalle() {
 	printf("Halle Nurse");  
 	printf("Junior");
+	printf("Computer Science");
+	printf("Softball, golf, hiking, floating the river");
 }
 
 int main(void) {
