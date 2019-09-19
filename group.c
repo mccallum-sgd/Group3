@@ -18,7 +18,8 @@ void printAndrew() {
 }
 
 void printHalle() {
-	printf("FIXME: print name, year, major, hobbies, where you grew up, and anything else interesting.");
+	printf("Halle Nurse");  
+	printf("Junior");
 }
 
 int main(void) {
