@@ -22,8 +22,14 @@ void printAndrew() {
 }
 
 void printHalle() {
-	printf("FIXME: print name, year, major, hobbies, where you grew up, and anything else interesting.");
+	printf("Halle Nurse\n");  
+	printf("Junior\n");
+	printf("Computer Science\n");
+	printf("Softball, golf, hiking, floating the river\n");
+	printf("Missoula, MT\n");
+	printf("I have been stung by a sting ray.\n");
 }
+
 
 int main(void) {
 	printSean();
