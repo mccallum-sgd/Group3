@@ -22,7 +22,9 @@ void printHalle() {
 	printf("Junior");
 	printf("Computer Science");
 	printf("Softball, golf, hiking, floating the river");
+	printf("Missoula, MT");
 }
+
 
 int main(void) {
 	printSean();
