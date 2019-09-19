@@ -10,7 +10,11 @@ void printSean() {
 }
 
 void printCian() {
-	printf("FIXME: print name, year, major, hobbies, where you grew up, and anything else interesting.");
+	printf("Name: Cian McGinn\n");
+	printf("Year: Sophomore\n");
+	printf("Major: Computer Science\n");
+	printf("Hobbies: Ultimate Frisbee, SSBM, other video games, programming\n");
+	printf("Hometown: Seattle\n");
 }
 
 void printAndrew() {
